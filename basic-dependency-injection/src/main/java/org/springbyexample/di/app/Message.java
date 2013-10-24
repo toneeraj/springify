@@ -33,7 +33,7 @@ public class Message {
     }
 
     /**
-     * Sets message.
+     * Sets message.dfdsajfdsajfsadj
      */
     public void setMessage(String message) {
         this.message = message;
